@@ -1,1 +1,1 @@
-# This code shows Python List Functions.
+# This code shows Python List Functions with example.
